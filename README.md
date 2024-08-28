@@ -128,11 +128,12 @@ Let's connect and explore how my diverse skill set in web development, REST APIs
 
 <h3 align="center">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidhassan282&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhassan282&" alt="GitHub Streak" />
 </p>
+
 <p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhassan282&" alt="GitHub Streak" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidhassan282&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <h3 align="center">My Contributions:</h3>
