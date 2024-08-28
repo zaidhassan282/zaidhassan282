@@ -12,8 +12,8 @@
 </p>
 
 <p align="center">
-  Hey there, thanks for checking out my profile!
-
+ <h4> Hey there, thanks for checking out my profile!</h4><br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 I'm a dedicated Software Engineer with hands-on experience in developing robust REST APIs using Java, particularly with frameworks like Spring Boot. My journey through the software development lifecycle—from design and implementation to testing and deployment—has honed my skills and solidified my commitment to best practices.
 
 In addition to backend development, I specialize in creating dynamic websites and E-Commerce platforms. My expertise extends to platforms like WordPress and Shopify, where I've leveraged HTML, CSS, and JavaScript to enhance user experiences and drive growth.
