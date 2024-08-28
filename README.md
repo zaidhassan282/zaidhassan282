@@ -4,12 +4,17 @@
   <br>
   Transforming Ideas into Solutions | Crafting the Future of Technology |<br> Software Engineer | Innovative Problem Solver 💻✨
 </h3>
+<be>
+
+<h2 align="center"> My Profile Trophies</h2>
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaidhassan282" alt="zaidhassan282" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zaidhassan282&theme=juicyfresh&row=2&column=4&margin-w=15&margin-h=15" alt="Zaid's Trophies" style="border-radius: 10px; border: 2px solid #f39c12;"/>
   </a>
 </p>
+
+
 
 <p align="center">
  <h4> Hey there, thanks for checking out my profile!</h4><br>
