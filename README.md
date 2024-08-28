@@ -27,18 +27,18 @@ Let's connect and explore how my diverse skill set in web development, REST APIs
   📫 Reach me at: <strong>zaidhassan282@gmail.com</strong> | +923328204018
 </p>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+<h3 >Connect with me:</h3>
+<p >
   <a href="https://www.linkedin.com/in/zaidhassan-softwareengineer/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.hackerrank.com/profile/zaidhassan282" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
   </a>
 </p>
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 >Languages and Tools:</h3>
+<p>
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
   </a>
@@ -126,17 +126,19 @@ Let's connect and explore how my diverse skill set in web development, REST APIs
 </p>
 
 
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zaidhassan282&" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=zaidhassan282&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img  src="https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### Quick stats about me
+| Github Stats | Leetcode Stats |
+| --- | --- |
+| ![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/zaidhassan282?theme=nord&font=Iceberg)|
+
+| Streaks | Top Languages |
+| --- | --- |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=zaidhassan282&theme=dark)](https://git.io/streak-stats) | ![Zaid's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidhassan282&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+
 
 <h3 align="center">My Contributions:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidhassan282&theme=github" alt="GitHub Activity Graph" />
 </p>
+
