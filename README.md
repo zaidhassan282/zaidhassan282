@@ -1,149 +1,117 @@
 <h1 align="center">Hi 👋, I'm Zaid Hassan</h1>
+
 <h3 align="center">
-  <img src="https://komarev.com/ghpvc/?username=zaidhassan282&label=Profile%20views&color=0e75b6&style=flat" alt="zaidhassan282" />
-  <br>
-  Transforming Ideas into Solutions | Crafting the Future of Technology |<br> Software Engineer | Innovative Problem Solver 💻✨
+Full Stack Software Engineer | React • Java • Spring Boot • FastAPI
 </h3>
-<be>
-
-<h2 align="center"> My Profile Trophies</h2>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zaidhassan282&theme=juicyfresh&row=2&column=4&margin-w=15&margin-h=15" alt="Zaid's Trophies" style="border-radius: 10px; border: 2px solid #f39c12;"/>
-  </a>
+<a href="mailto:zaidhassan282@gmail.com">📧 Email</a> •
+<a href="https://www.linkedin.com/in/zaidhassan-softwareengineer/" target="_blank">💼 LinkedIn</a> •
+<a href="https://leetcode.com/zaidhassan282/" target="_blank">🧠 LeetCode</a> •
+<a href="https://www.hackerrank.com/profile/zaidhassan282" target="_blank">🏆 HackerRank</a>
 </p>
 
+---
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-<p align="center">
- <h4> Hey there, thanks for checking out my profile!</h4><br>
-<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR3Nzl5YTF0bjNiaDZ4OTFpZzAwanprcHA4YmlqbnQxYTBybjZoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif" width="500" height="320" />
-I'm a dedicated Software Engineer with hands-on experience in developing robust REST APIs using Java, particularly with frameworks like Spring Boot. My journey through the software development lifecycle—from design and implementation to testing and deployment—has honed my skills and solidified my commitment to best practices.
+## 👋 About Me
 
-In addition to backend development, I specialize in creating dynamic websites and E-Commerce platforms. My expertise extends to platforms like WordPress and Shopify, where I've leveraged HTML, CSS, and JavaScript to enhance user experiences and drive growth.
+I’m **Zaid Hassan**, a **Full Stack Software Engineer** with hands-on experience building **scalable, secure, and production-grade web applications** across **fintech, audit, and accounting domains**.
 
-My technical toolkit includes a broad range of technologies and methodologies, such as C#, Java, Python, OOP, Data Structures, Django, ASP.NET Core, Entity Framework, Spring Boot, Servlets, MySQL, PostgreSQL, Oracle, Hibernate, Git, GitHub, Maven, JWT Authentication, Swagger, and Postman. I thrive in collaborative environments and am passionate about continuous improvement and problem-solving.
+I specialize in **modern frontend interfaces** and **robust backend architectures**, transforming complex business workflows into **high-performance, maintainable digital platforms**.
 
-Let's connect and explore how my diverse skill set in web development, REST APIs with Java and its frameworks, and E-Commerce can contribute to your team's success. If you're looking for a dedicated professional committed to excellence, I'm excited to bring my expertise to your organization.
-  <br>
-  👨‍💻 All of my projects are available at <a href="https://github.com/zaidhassan282" target="_blank">My GitHub</a>
-  <br>
-  📫 Reach me at: <strong>zaidhassan282@gmail.com</strong> | +923328204018
-</p>
+### 🔹 What I Bring
+- ⚛️ **Frontend Engineering**: React.js, Next.js, responsive UI & UX  
+- ⚙️ **Backend Development**: Java (Spring Boot), FastAPI, NestJS  
+- 🗄️ **Databases**: PostgreSQL, MongoDB, MySQL, Redis  
+- 🔐 **Security**: JWT authentication, role-based access control  
+- 🚀 **DevOps**: Docker, CI/CD pipelines, AWS EC2  
+- 🧠 **Core CS**: OOP, Data Structures & Algorithms, System Design  
 
-<h3 >Connect with me:</h3>
-<p >
-  <a href="https://www.linkedin.com/in/zaidhassan-softwareengineer/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/zaidhassan282" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-</p>
+I’ve architected **full-scale enterprise platforms**, optimized **high-volume financial systems**, and consistently delivered **clean, maintainable, and scalable code** following industry best practices.
 
-<h3 >Languages and Tools:</h3>
+</td>
+
+<td width="40%" align="right">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWR3Nzl5YTF0bjNiaDZ4OTFpZzAwanprcHA4YmlqbnQxYTBybjZoeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/H03PuVdwREB21ANkLX/giphy.gif"
+     alt="Full Stack Software Engineer coding animation"
+     width="100%" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+### 🎨 Frontend Development
 <p>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  </a>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt=".NET" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/>
-  </a>
-  <a href="https://spring.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/>
-  </a>
+<img src="https://skillicons.dev/icons?i=react" alt="React.js frontend library" height="40"/> React.js &nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js React framework" height="40"/> Next.js &nbsp;
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript programming language" height="40"/> JavaScript &nbsp;
+<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript static typing language" height="40"/> TypeScript &nbsp;
+<img src="https://skillicons.dev/icons?i=html" alt="HTML5 markup language" height="40"/> HTML5 &nbsp;
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3 styling language" height="40"/> CSS3
 </p>
 
+### ⚙️ Backend Development
+<p>
+<img src="https://skillicons.dev/icons?i=java" alt="Java backend programming language" height="40"/> Java &nbsp;
+<img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot backend framework" height="40"/> Spring Boot &nbsp;
+<img src="https://skillicons.dev/icons?i=python" alt="Python backend programming language" height="40"/> Python &nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI backend framework" height="40"/> FastAPI &nbsp;
+<img src="https://skillicons.dev/icons?i=nestjs" alt="NestJS backend framework" height="40"/> NestJS &nbsp;
+<img src="https://skillicons.dev/icons?i=dotnet" alt="ASP.NET Core backend framework" height="40"/> ASP.NET Core
+</p>
 
+### 🗄️ Databases
+<p>
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL relational database" height="40"/> PostgreSQL &nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL relational database" height="40"/> MySQL &nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB NoSQL database" height="40"/> MongoDB &nbsp;
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis in-memory data store" height="40"/> Redis
+</p>
 
-### Quick stats about me
-| Github Stats | Leetcode Stats |
-| --- | --- |
-| ![Zaid's github stats](https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![LeetCode Stats](https://leetcard.jacoblin.cool/zaidhassan282?theme=nord&font=Iceberg)|
+### 🚀 DevOps & Tools
+<p>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker containerization tool" height="40"/> Docker &nbsp;
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS EC2 cloud platform" height="40"/> AWS EC2 &nbsp;
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins CI/CD automation tool" height="40"/> Jenkins &nbsp;
+<img src="https://skillicons.dev/icons?i=git" alt="Git version control system" height="40"/> Git &nbsp;
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman API testing tool" height="40"/> Postman &nbsp;
+<img src="https://skillicons.dev/icons?i=maven" alt="Maven build automation tool" height="40"/> Maven
+</p>
 
-| Streaks | Top Languages |
-| --- | --- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=zaidhassan282&theme=dark)](https://git.io/streak-stats) | ![Zaid's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidhassan282&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
+---
 
+## 📊 GitHub & Problem Solving Stats
 
-<h3 align="center">My Contributions:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=zaidhassan282&theme=github" alt="GitHub Activity Graph" />
+<img src="https://github-readme-stats.vercel.app/api?username=zaidhassan282&show_icons=true&theme=dark" height="170"/>
+<img src="https://leetcard.jacoblin.cool/zaidhassan282?theme=dark&font=Karma" height="170"/>
 </p>
 
+<h3 align="center">🧠 Top Languages</h3>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidhassan282&layout=compact&theme=dark"
+     alt="Zaid Hassan top programming languages"
+     height="170"/>
+</p>
+
+---
+
+## 📅 Consistency (Isometric Commit Calendar)
+
+<p align="center">
+<img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.isocalendar.svg" />
+</p>
+
+---
+
+<p align="center">
+<b>"Engineering scalable systems with clean code and real-world impact."</b>
+</p>
