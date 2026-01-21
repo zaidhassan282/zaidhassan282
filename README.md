@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zaid Hassan</h1>
 
 <h3 align="center">
-Full Stack Software Engineer | React • Java • Spring Boot • FastAPI
+Full Stack Software Engineer
 </h3>
 
 <p align="center">
